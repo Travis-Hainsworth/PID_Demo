@@ -1,0 +1,5 @@
+Raspberry Pi 4
+DC Motor (25D https://www.pololu.com/product/4840)
+Motor Controller (Motoron M2H18v18 https://www.pololu.com/product/5049)
+Power Supply (https://www.amazon.com/dp/B0CBK1D77J?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1)
+
